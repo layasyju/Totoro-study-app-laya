@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(224, 211, 192);
+
+}
+.heading{
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.timer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 20rem;
+    height: 20rem;
+    border: 5px solid rgb(121, 108, 97);
+    border-radius: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn,.btnw:hover{
+    color: chocolate;
+    border: 2px,solid chocolate;
+    transition: 0.3s ease;
+}
+
+.row{
+    width: 100%;
+}
+
+#fre1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 50%;
+}
+
+#fre2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 50%;
+}
+
+#fre3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 50%;
+}
+
+.show_message{
+    display: block;
+    padding: Irem 0;
+    color: rgba(150, 122, 106, 0.945);
+    background:rgb(224, 211, 192); 
+    border-radius: 0.5rem;
+    transition: 0.5s ease;
+}
+
+#btnn{
+  height: 35px;
+  border-color: rgb(253, 253, 252);
+}
+
+.btn{
+    border-color: rgb(253, 253, 252);
+
+}
